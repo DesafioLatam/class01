@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   
   
+  resources :projects
   get 'welcome/index'
   get 'welcome/users'
 
