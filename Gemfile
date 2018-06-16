@@ -67,3 +67,5 @@ gem 'jquery-rails'
 gem 'popper_js'
 
 gem 'awesome_print'
+
+gem 'devise'
